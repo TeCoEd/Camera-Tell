@@ -12,7 +12,7 @@ This super-duper pimped out camera, the 'Camera Tell' enables you to take a pict
 4) Identify a specific logo or brand
 5) Shut down the camera!
 
-Read more at: http://www.tecoed.co.uk/google-vision-camera-tell.html
-
 Video here:
 - https://www.youtube.com/watch?v=AMn8b3QS988
+
+Read more at: http://www.tecoed.co.uk/google-vision-camera-tell.html
